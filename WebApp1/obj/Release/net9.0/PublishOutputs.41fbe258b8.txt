@@ -1,0 +1,7 @@
+C:\Vishal Taksale\Practice\AZ-204 Udemy\bin\publish\WebApp1.exe
+C:\Vishal Taksale\Practice\AZ-204 Udemy\bin\publish\appsettings.Development.json
+C:\Vishal Taksale\Practice\AZ-204 Udemy\bin\publish\appsettings.json
+C:\Vishal Taksale\Practice\AZ-204 Udemy\bin\publish\WebApp1.dll
+C:\Vishal Taksale\Practice\AZ-204 Udemy\bin\publish\WebApp1.deps.json
+C:\Vishal Taksale\Practice\AZ-204 Udemy\bin\publish\WebApp1.runtimeconfig.json
+C:\Vishal Taksale\Practice\AZ-204 Udemy\bin\publish\WebApp1.pdb

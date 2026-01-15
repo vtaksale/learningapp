@@ -1,0 +1,4 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "WebApp1/bin/Release/net9.0/publish"
+}
